@@ -1,0 +1,56 @@
+.aa {
+    margin-top: 210px;
+  }
+
+  .bb {
+    
+    font-weight: 900 !important;
+
+  }
+
+  .cc{
+    border: 0px;
+    border-radius: 20px;
+   
+  }
+
+  .dd {
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 2px solid lightgray;
+    border-bottom: 3px solid lightgray;
+    border-radius: 8px;
+  }
+
+  .ee {
+    margin-left: -80px;
+  }
+
+  .bg-img {
+    background-image: url("ship.jpeg");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .ff:hover {
+      font-weight: bold;
+      text-decoration: none;
+  }
+  .ff{
+      text-decoration: none;
+  }
+  input,
+select,
+textarea:focus {
+  box-shadow: none !important;
+  outline: none !important;
+  border-color: lightgray !important;
+}
+
+input,
+select,
+textarea {
+  border-top-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
